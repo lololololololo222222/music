@@ -2,14 +2,14 @@
   {
     "title": "RadioTesting",
     "artist": "huiznaet",
-    "url": "https://lololololololo222222.github.io/music/testtrack1.mp3",
-    "cover": "https://lololololololo222222.github.io/music/cover.png",
+    "url": "https://raw.githubusercontent.com/lololololololo222222/music/main/testtrack1.mp3",
+    "cover": "https://raw.githubusercontent.com/lololololololo222222/music/main/cover.png"
   },
   {
-    "title": "Radio Jeppette",
+    "title": "Radio Jappette",
     "artist": "huiznaet",
-    "url": "https://lololololololo222222.github.io/music/testtrack2.mp3",
-    "cover": "https://lololololololo222222.github.io/music/cover2.png",
+    "url": "https://raw.githubusercontent.com/lololololololo222222/music/main/testtrack2.mp3",
+    "cover": "https://raw.githubusercontent.com/lololololololo222222/music/main/cover2.png"
   }
 ]
     
